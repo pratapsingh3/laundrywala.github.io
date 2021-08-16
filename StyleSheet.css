@@ -1,0 +1,304 @@
+﻿/* Common */
+
+.t4Left {
+	float: left;
+}
+
+.t4Right {
+	float: right;
+}
+
+.t4Clear {
+	clear: both;
+}
+
+/* Header */
+
+.w-10 {
+    width: 80%;
+}
+
+.cart {
+   margin-left: 200px;
+   padding-left: 50px;
+}
+
+/* Banner */
+
+.banner {
+	background-image: url('img/banner21.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 125px;
+}
+
+.mainban
+{
+    background-image: url('img/mainban.jpg');
+	height: 549px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Sign Up for Home Page */
+
+.banbox {
+    width: 500px;
+	height: 340px;
+    margin-left: 877px;
+	background-color: #ec008c;	
+	margin-top: -157px
+}
+
+.banbox p {
+	font-size: 22px;
+}
+
+/* Proffesional Worker */
+
+.worker h2 {
+	font-size: 40px;
+    font-weight: 750;
+	color: #e81050;
+}
+
+.worker p {
+	font-size: 1.25rem;
+    font-weight: 300;
+	color: #808080;
+}
+
+/* Slider*/
+
+.agency h2 {
+	color: #e81050;
+	font-size: 40px;
+    font-weight: 750;
+}
+.agency p {
+	color: #808080;
+	font-size: 23px;
+    font-weight: 300px;
+}
+
+/* Services */
+
+.service-icon {
+	font-size: 40px;
+}
+
+/* How We Work */
+
+.work h2 {
+	font-size: 42px;
+	color: #e81050;
+	font-weight: 300px;
+}
+
+.work h5 {
+	color: #505288;
+}
+
+.work1 {
+	width: 45%;
+}
+
+.work2 {
+	width: 71%;
+}
+
+.work3 {
+	width: 45%;
+}
+
+/* Services */
+
+.service1 {
+	font-size: 13px;
+	color: #e81050;
+}
+
+.service2 {
+	font-size: 40px;
+	color: #e81050 ;
+}
+
+/* Footer */
+
+.footer {
+	background-color: #42494a;
+	color: #dadbdb;
+}
+
+.footer h3 {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.footer p {
+	font-size: 12px;
+}
+
+.icon .t4Left {
+	width: 10%;
+	color: #fff;
+}
+ 
+.icon i {
+	height: 50px;
+}
+
+.iForm input {
+	height: 51px;
+	width: 260px;
+	border-radius: 5px;
+	background-color: #3a3e41;
+	border: solid 1px #3a3e41;
+	color: #c4c5c6;
+	padding: -12px 10px;
+	margin: -10px 0px 30px 0px;
+}
+
+.subscribe button {
+	background-color: #eb6648;
+	border: solid 1px #eb6648;
+	color: #fadfdb;
+	text-align: center;
+	margin: -10px 50px 0px 0px;
+	padding-top: 14px 20px;
+	border-radius: 5px;
+}
+
+.coprights {
+	background-color: #3a3e41;
+	color: #a4a4a4;
+}
+
+/* Sign up */
+
+.ban {
+    background-image: url('img/slide_4.jpg');
+    height: 736px;
+    background-size: cover;   
+}
+
+.regotp {
+    margin-top: 200px;
+}
+
+.sign {
+    background-color: #ec008c;  
+    margin-top: 80px;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+.signinp {
+    width: 85%;    
+}
+
+.signbtn {
+     background-color: #505288; 
+     color: #fff;
+     width: 50%;  
+}
+
+.signlog {
+    margin-top: 500px;    
+}
+
+.signmarg {
+    margin-left: 80px;
+}
+
+/* Log in */
+
+.log{
+    background-color: #ec008c;  
+    margin-top: 120px;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+/* Home Page */
+
+
+
+.popup{
+    background-color: #e81050;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 600px;
+    height: 600px;
+    }
+                
+.roundedcorner{
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px;
+    border-right: 1px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    margin-top: 110px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+   background-image: linear-gradient(to left, #66ccff 0%, #ff99cc 100%);
+}
+
+/* Gallery */
+
+.gal-arrow {
+	
+	font-size: 100px;
+	margin: -79px 32px 10px -56px;
+}
+
+.gal-pic1 {
+	height: 358px;
+}
+
+
+/* Colors */
+
+.greybg {
+	background-color: #f8f9fa;
+}
+
+.gray-bg1 {
+	background-color: #f0f0f0;
+}
+
+.purplebg {
+   background-color: #505288;
+}
+
+.pinkbg {
+    background-color: #e81050;
+}
+
+.text-pink {
+	color: #e81050;
+}
+
+.text-purple {
+	color: #505288;
+}
+
+.text-gray {
+	color: #808080;
+}
+
+.opbg {
+    background-color: #e7f3ff;
+    height: 100%;
+}
+
